@@ -1,2 +1,2 @@
 # EP353-ProblemSets
- 
+ /* The helloworld program is the first program that you learn to code in any language. Simply speaking it causes your console to print hello world. The program starts with a command that tells the processor to include the stdio.h file when you run the clang compiler. Then int main() is a function that starts every program. The command is then followed with the command printf("Hello, World!"). The parantheses indicate content that the console is supposed to print, and content within "" quotations indicate that the function printf contain a string. The program then finishes with command return 0; as a convention to signal that the program has ran correctly */
