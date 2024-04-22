@@ -16,6 +16,7 @@ void print_chord_freq(int arr[], int size){
 int main(){
     int j;
     int midi[] = {0, 0, 0};
+    int y;
 
     printf("enter total number of notes\n");
     scanf("%d", &j);
